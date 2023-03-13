@@ -26,7 +26,7 @@ const runPrompt = async (to, from, msg_body) =>{
 
 
 // Variables           
-const whatsAppToken = "EAAOsV1mBz48BAEdMdTZAmP1zHZApPCPeq6BaoeCZBne33dUShz9ACZBHudiN2EMj6c0arP1uC3FDGWHowzaS9Kn3RCfccBPVr5WsT1TuSFgYjPOFcc9ZCWo7tbIF3P7e1C7L7BS0ZBpSzMTmvul3Dc49GCrUbdK1cfic6CgapYz06fqmWtMBkTM72JQ0ivq161zrWJtWuZBDwZDZD";
+const whatsAppToken = "";
 const verifyToken = "123";
 // Dialogflow
 
